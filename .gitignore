@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not CLAUDE.md
+!CLAUDE.md
+
+# And not this file
+!.gitignore
